@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContextWallet</string>
+
+    <!-- Navigation -->
+    <string name="nav_active">Ativos</string>
+    <string name="nav_inactive">Inativos</string>
+    <string name="nav_expired">Expirados</string>
+    <string name="nav_directions">Como chegar</string>
+
+    <!-- Document states -->
+    <string name="state_active">Ativo</string>
+    <string name="state_inactive_not_started">Ainda não válido</string>
+    <string name="state_inactive_out_of_range">Fora do alcance</string>
+    <string name="state_expired">Expirado</string>
+
+    <!-- Document state descriptions -->
+    <string name="state_active_desc">Este documento está atualmente válido</string>
+    <string name="state_inactive_not_started_date_desc">Começa em %1$s</string>
+    <string name="state_inactive_not_started_desc">Ainda não começou</string>
+    <string name="state_inactive_out_of_range_km_desc">%.1f km do ponto mais próximo</string>
+    <string name="state_inactive_out_of_range_desc">Fora do intervalo de validação</string>
+    <string name="state_expired_desc">Este documento expirou</string>
+
+    <!-- Document details -->
+    <string name="valid_from">Válido a partir de: %1$s</string>
+    <string name="valid_until">Válido até: %1$s</string>
+    <string name="starts_on">Começa em %1$s</string>
+    <string name="distance_from_point">%.1f km do ponto mais próximo</string>
+    <string name="used_times">Usado %1$d vez</string>
+    <string name="used_times_plural">Usado %1$d vezes</string>
+
+    <!-- Empty states -->
+    <string name="empty_active_title">Nenhum documento ativo</string>
+    <string name="empty_active_desc">Os documentos aparecerão aqui quando estiverem dentro do período de validade e do alcance de localização</string>
+    <string name="empty_inactive_title">Nenhum documento inativo</string>
+    <string name="empty_inactive_desc">Os documentos que ainda não são válidos ou estão fora do alcance de localização aparecerão aqui</string>
+    <string name="empty_expired_title">Nenhum documento expirado</string>
+    <string name="empty_expired_desc">Os documentos que ultrapassaram a data de término aparecerão aqui</string>
+
+    <!-- Document creation -->
+    <string name="create_document">Criar documento</string>
+    <string name="document_name">Nome do documento</string>
+    <string name="document_file">Arquivo do documento</string>
+    <string name="no_file_selected">Nenhum arquivo selecionado</string>
+    <string name="start_date">Data de início</string>
+    <string name="end_date">Data de término</string>
+    <string name="global_mode">Modo global</string>
+    <string name="global_mode_desc">Válido em qualquer lugar</string>
+    <string name="validation_radius">Raio de validação (km)</string>
+    <string name="use_current_location">Usar localização atual</string>
+    <string name="use_current_location_desc">Definir ponto de validação na localização atual</string>
+    <string name="create">Criar documento</string>
+
+    <!-- Buttons -->
+    <string name="add_document">Adicionar documento</string>
+    <string name="back">Voltar</string>
+
+    <!-- Notifications -->
+    <string name="reminder_24h">"%1$s" estará ativo em 24 horas</string>
+    <string name="reminder_12h">"%1$s" estará ativo em 12 horas</string>
+    <string name="reminder_title">Lembrete de documento</string>
+</resources>

@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentSelectorViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentSelectorViewModel

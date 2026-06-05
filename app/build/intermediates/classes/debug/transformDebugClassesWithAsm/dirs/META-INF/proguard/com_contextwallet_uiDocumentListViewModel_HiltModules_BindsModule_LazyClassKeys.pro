@@ -1,0 +1,9 @@
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentCreateViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentCreateViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.BackupViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.BackupViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.DocumentDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.LogViewerViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.screens.LogViewerViewModel
+-keep,allowobfuscation,allowshrinking class com.contextwallet.ui.DocumentListViewModel

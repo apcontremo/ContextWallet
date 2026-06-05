@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContextWallet</string>
+
+    <!-- Navigation -->
+    <string name="nav_active">Aktiv</string>
+    <string name="nav_inactive">Inaktiv</string>
+    <string name="nav_expired">Abgelaufen</string>
+    <string name="nav_directions">Wegbeschreibung</string>
+
+    <!-- Document states -->
+    <string name="state_active">Aktiv</string>
+    <string name="state_inactive_not_started">Noch nicht gültig</string>
+    <string name="state_inactive_out_of_range">Außerhalb des Bereichs</string>
+    <string name="state_expired">Abgelaufen</string>
+
+    <!-- Document state descriptions -->
+    <string name="state_active_desc">Dieses Dokument ist derzeit gültig</string>
+    <string name="state_inactive_not_started_date_desc">Beginnt am %1$s</string>
+    <string name="state_inactive_not_started_desc">Noch nicht begonnen</string>
+    <string name="state_inactive_out_of_range_km_desc">%.1f km vom nächsten Punkt</string>
+    <string name="state_inactive_out_of_range_desc">Außerhalb des Gültigkeitsbereichs</string>
+    <string name="state_expired_desc">Dieses Dokument ist abgelaufen</string>
+
+    <!-- Document details -->
+    <string name="valid_from">Gültig ab: %1$s</string>
+    <string name="valid_until">Gültig bis: %1$s</string>
+    <string name="starts_on">Beginnt am %1$s</string>
+    <string name="distance_from_point">%.1f km vom nächsten Punkt</string>
+    <string name="used_times">%1$d Mal verwendet</string>
+    <string name="used_times_plural">%1$d Mal verwendet</string>
+
+    <!-- Empty states -->
+    <string name="empty_active_title">Keine aktiven Dokumente</string>
+    <string name="empty_active_desc">Dokumente erscheinen hier, wenn sie sich innerhalb ihres Gültigkeitszeitraums und Standortbereichs befinden</string>
+    <string name="empty_inactive_title">Keine inaktiven Dokumente</string>
+    <string name="empty_inactive_desc">Dokumente, die noch nicht gültig sind oder sich außerhalb ihres Standortbereichs befinden, erscheinen hier</string>
+    <string name="empty_expired_title">Keine abgelaufenen Dokumente</string>
+    <string name="empty_expired_desc">Dokumente, die ihr Enddatum überschritten haben, erscheinen hier</string>
+
+    <!-- Document creation -->
+    <string name="create_document">Dokument erstellen</string>
+    <string name="document_name">Dokumentname</string>
+    <string name="document_file">Dokumentdatei</string>
+    <string name="no_file_selected">Keine Datei ausgewählt</string>
+    <string name="start_date">Startdatum</string>
+    <string name="end_date">Enddatum</string>
+    <string name="global_mode">Globaler Modus</string>
+    <string name="global_mode_desc">Überall gültig</string>
+    <string name="validation_radius">Gültigkeitsradius (km)</string>
+    <string name="use_current_location">Aktuellen Standort verwenden</string>
+    <string name="use_current_location_desc">Gültigkeitspunkt auf aktuellen Standort setzen</string>
+    <string name="create">Dokument erstellen</string>
+
+    <!-- Buttons -->
+    <string name="add_document">Dokument hinzufügen</string>
+    <string name="back">Zurück</string>
+
+    <!-- Notifications -->
+    <string name="reminder_24h">"%1$s" wird in 24 Stunden aktiv</string>
+    <string name="reminder_12h">"%1$s" wird in 12 Stunden aktiv</string>
+    <string name="reminder_title">Dokumenterinnerung</string>
+</resources>

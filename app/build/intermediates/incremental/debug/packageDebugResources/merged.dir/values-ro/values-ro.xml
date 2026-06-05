@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_document">Adăugați un document</string>
+    <string name="app_name">ContextWallet</string>
+    <string name="back">Înapoi</string>
+    <string name="create">Creați documentul</string>
+    <string name="create_document">Creați un document</string>
+    <string name="distance_from_point">%.1f km de cel mai apropiat punct</string>
+    <string name="document_file">Fișierul documentului</string>
+    <string name="document_name">Numele documentului</string>
+    <string name="empty_active_desc">Documentele vor apărea aici când se află în perioada de valabilitate și raza de locație</string>
+    <string name="empty_active_title">Niciun document activ</string>
+    <string name="empty_expired_desc">Documentele care au depășit data de sfârșit vor apărea aici</string>
+    <string name="empty_expired_title">Niciun document expirat</string>
+    <string name="empty_inactive_desc">Documentele care nu sunt încă valide sau sunt în afara razei de locație vor apărea aici</string>
+    <string name="empty_inactive_title">Niciun document inactiv</string>
+    <string name="end_date">Data de sfârșit</string>
+    <string name="global_mode">Mod global</string>
+    <string name="global_mode_desc">Valid oriunde</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_directions">Obține indicații</string>
+    <string name="nav_expired">Expirate</string>
+    <string name="nav_inactive">Inactive</string>
+    <string name="no_file_selected">Niciun fișier selectat</string>
+    <string name="reminder_12h">"%1$s" va fi activ în 12 ore</string>
+    <string name="reminder_24h">"%1$s" va fi activ în 24 de ore</string>
+    <string name="reminder_title">Memento document</string>
+    <string name="start_date">Data de început</string>
+    <string name="starts_on">Începe pe %1$s</string>
+    <string name="state_active">Activ</string>
+    <string name="state_active_desc">Acest document este în prezent valid</string>
+    <string name="state_expired">Expirat</string>
+    <string name="state_expired_desc">Acest document a expirat</string>
+    <string name="state_inactive_not_started">Încă nevalid</string>
+    <string name="state_inactive_not_started_date_desc">Începe pe %1$s</string>
+    <string name="state_inactive_not_started_desc">Nu a început încă</string>
+    <string name="state_inactive_out_of_range">În afara razei</string>
+    <string name="state_inactive_out_of_range_desc">În afara razei de validare</string>
+    <string name="state_inactive_out_of_range_km_desc">%.1f km de cel mai apropiat punct</string>
+    <string name="use_current_location">Utilizați locația curentă</string>
+    <string name="use_current_location_desc">Setați punctul de validare la locația curentă</string>
+    <string name="used_times">Utilizat de %1$d ori</string>
+    <string name="used_times_plural">Utilizat de %1$d ori</string>
+    <string name="valid_from">Valabil de la: %1$s</string>
+    <string name="valid_until">Valabil până la: %1$s</string>
+    <string name="validation_radius">Raza de validare (km)</string>
+</resources>
