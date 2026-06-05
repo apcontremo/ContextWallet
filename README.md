@@ -1,4 +1,5 @@
 # ContextWallet
+<<<<<<< HEAD
 
 A sophisticated Android application that manages documents based on temporal and spatial validity, with automatic reminders and intelligent state management.
 
@@ -123,3 +124,6 @@ This project is ready for publication on Google Play Store.
 ## Author
 
 Created as a document management solution with intelligent context awareness.
+=======
+A contextual wallet for documents you want to see "now" and "here"
+>>>>>>> b79f778c5f43688441a73f14fccbbd39d312615b
